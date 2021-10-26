@@ -1,6 +1,6 @@
 # staggered_animated_listview
 
-A new Flutter project.
+Beautiful Animated ListView and GridView
 
 ## Getting Started
 
